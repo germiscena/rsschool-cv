@@ -30,3 +30,8 @@ return a * b
   * WayUP Frontend(Free course)
   * LearnJs(Free JS book)
 
+
+# **Languages**
+* Russian
+* English(A2)
+
